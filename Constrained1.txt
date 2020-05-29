@@ -1,0 +1,3 @@
+Time taken by function: 0.002331  seconds
+Path weight: 131
+Path: 1 37 41 2 100 
